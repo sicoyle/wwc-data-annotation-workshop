@@ -1,6 +1,6 @@
-# 2022 GHC Level Up Lab
-## Use Open Source Tool to Simplify & Automate Video/Image Labeling Process
-### With Samantha Coyle & Neethu Elizabeth Simon, Intel Corporation
+# 2023 WWC Workshop
+## Visual Data Annotations Made Easy with Open Source Tool
+### With Samantha Coyle, Diagrid & Neethu Elizabeth Simon, Intel Corporation
 
 ### Overview
 Computer Vision Annotation Tool, or [CVAT](https://app.cvat.ai/auth/login) for short,
