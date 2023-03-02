@@ -15,7 +15,7 @@ They also allow you to upload existing annotations and export annotations.
 Tasks may have multiple jobs.
 Jobs allow you to split up tasks by frame to divvy up the annotations among a team.
 
-![CVAT Hierarchy](./assets/screenshots/hierarchy.jpg)
+![CVAT Hierarchy](./assets/screenshots/hierarchy.png)
 
 ## Steps to follow to create an annotation project
 1. Create an account and login at [cvat.org](https://app.cvat.ai/auth/login).
